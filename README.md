@@ -1,3 +1,5 @@
+<img width="597" height="984" alt="image of the full ui" src="https://github.com/user-attachments/assets/b422be78-30c2-4c87-9ff5-0541e476d533" />
+
 ## About
 This is my AQA A-level computer science NEA that got me 71/75 (A*). It is a python app that estimates accident risk by using a weighted mathematical model and historical data from England's Department of Transport to output a percentage risk estimate based on user inputs like weather, road type, e.t.c. Lined in this repo is the NEA documentation, the python code and the accident dataset.
 
